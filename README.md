@@ -12,6 +12,8 @@ The live slides for the session are available here: [GRC_immunoengineering_2022 
 
 The extended slides including this walk-through are here here: [GRC_immunoengineering_2022 extended version](https://github.com/physicell-training/GRC_immunoengineering_2022/raw/main/slides/Macklin-GRC-2022-full.pdf). 
 
+To follow the modeling in the slides, use the [https://nanohub.org/tools/pc4learning](pc4learning) app. 
+
 ## Source code 
 If you run the desktop version of PhysiCell, you can download the v1, v2, and v3 models here. To prepare, first populate and compile the template project: 
 
