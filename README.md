@@ -42,3 +42,9 @@ This adds neutrophils to the v2 model.  Download the v3 config file: [v3 config]
 ```
 (Windows users: `project v3.xml`). 
 
+### Visualization
+To make a quick animated gif: 
+```
+make gif 
+```
+It will be stored in your output directory. 
